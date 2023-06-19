@@ -1,0 +1,26 @@
+<title>Atlas Ptaków </title>
+
+</head>
+
+<body>
+
+<h1>
+
+<b>atlas ptaków</b>
+
+</h1>
+
+<h2>gil</h2>
+
+<figure>
+
+<img src="Gil.jpeg" alt="Gil">
+<p>
+
+Gil jest wiêkszy od wróbla. Ptak o krêpej sylwetce, wydatnej piersi i du¿ej g³owie. Dziób czarny, gruby, krótki, mocny i sto¿kowaty. Têczówki oczu i nogi s¹ br¹zowe. U obu p³ci czarny wierzch g³owy, bia³y kuper i d³ugi, niebieskoczarny ogon[8]. Skrzyd³a d³ugie, czarne ze skoœn¹ bia³¹ prêg¹. Dymorfizm p³ciowy jest mocno zaznaczony, choæ obie p³ci s¹ jednakowej wielkoœci. U samca policzki i pierœ jaskrawoczerwona, grzbiet (p³aszcz) niebieskawopopielaty[8]. U samicy pierœ bledsza, br¹zowo-ró¿owa, grzbiet br¹zowoszary[8]. M³ode podobne do samic, z szarobr¹zowym brzuchem, ale bez czarnej czapeczki i z be¿ow¹, a nie bia³¹, prêg¹ na skrzydle[9]. Ubarwienie doros³e zyskuj¹ dopiero po jesiennym pierzeniu.
+
+<p>
+
+<audio controls="controls">
+        <source src="gil.mp3" type="audio/mpeg">
+       </audio>
